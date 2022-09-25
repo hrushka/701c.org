@@ -1,4 +1,4 @@
-# 👾 701C.ORG
+# 👾 701c.org
 This repo contains the open source assets for Project Butterfly - the [701C.ORG](https://701c.org) project.
 
 ## An enthusiasts guide to restoring and preserving an iconic portable.

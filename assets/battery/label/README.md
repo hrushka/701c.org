@@ -1,4 +1,4 @@
-# 👾 701C.ORG / Battery / Label  
+# 👾 701c.org / Battery / Label  
 
 Find the full rebuild and walkthrough at [https://701c.org/projects/battery](https://701c.org/projects/battery).
 

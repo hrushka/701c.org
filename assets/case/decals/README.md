@@ -1,4 +1,4 @@
-# 👾 701C.ORG / Case / Decals  
+# 👾 701c.org / Case / Decals  
 
 Find application instructions and a full walkthrough at [https://www.701c.org/projects/painting-decals](https://www.701c.org/projects/painting-decals).
 
