@@ -13,5 +13,7 @@ The label is designed to be an exact match for the original battery and also fit
 | Height      | 34.5 mm       |
 | Width   | 198 mm        |
 | Corner Radius * | 1.5 mm |
+| Gray Color | [Pantone 2330 C](https://www.pantone.com/connect/2330-C) |
+| Yellow Color | [Pantone 114 C](https://www.pantone.com/connect/114-C) |
 
 \* The top left corner has a custom notch cut out
