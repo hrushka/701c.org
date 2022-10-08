@@ -8,8 +8,8 @@ The label is designed to be an exact match for the original battery and also fit
 
 | Property      | Value |
 | ----------- | ----------- |
-| Material | PVC |
-| Back | Metallic |
+| Material | BOPP |
+| Back | Metallic Silver Silver |
 | Height      | 34.5 mm       |
 | Width   | 198 mm        |
 | Corner Radius * | 1.5 mm |
