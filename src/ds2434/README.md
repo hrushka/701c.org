@@ -53,7 +53,9 @@ Special Thanks:
 
 If you'd like to print your own PCB, you can [download the latest Gerber files here](https://github.com/hrushka/701c.org/tree/main/assets/battery/gerber). There is also a version that will work with the original DS2434 IC in case you happen to have one you've pulled form an original battery.
 
-The PCB uses the **ATTINY85-20SF** surface mount package
+The PCB has been tested with the following surface mount packages:
+- [ATTINY85-20SF](https://www.findchips.com/search/ATTINY85-20SF)
+- [ATTINY85-20SFR](https://www.findchips.com/search/ATTINY85-20SFR)
 
 #
 
