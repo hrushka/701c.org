@@ -18,6 +18,10 @@ This code requires a modified version of the awesome OneWireHub library by [Ingm
 
 [https://github.com/hrushka/OneWireHub](https://github.com/hrushka/OneWireHub)
 
+Special Thanks: 
+-  Ingmar Inʒo Splitt (@orgua) for updates to the OneWireHub framework and initial code for the DS2434.
+-  Karl Buchka for a lot of general knowledge and direction with MCUs and troubleshooting.
+
 #
 
 ## Building the clone

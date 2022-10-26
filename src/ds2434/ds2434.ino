@@ -8,8 +8,11 @@
 *   Author: hrushka (701c.org)
 *   Required: https://github.com/hrushka/OneWireHub - a modified version of the original
 *   
-*   Special Thanks: Ingmar Inʒo Splitt (@orgua) for updates to the OneWireHub framework
-*   and initial code for the DS2434.
+*   Special Thanks: 
+*    -  Ingmar Inʒo Splitt (@orgua) for updates to the OneWireHub framework
+*       and initial code for the DS2434.
+*    -  Karl Buchka for a lot of general knowledge and direction with MCUs 
+        and troubleshooting 
 */
 
 #include "OneWireHub.h" // https://github.com/hrushka/OneWireHub
