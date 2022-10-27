@@ -2,7 +2,7 @@
 
 Find the full rebuild and walkthrough at [https://701c.org/projects/battery](https://701c.org/projects/battery).
 
-> **Note**: If you'd rather purchase a pre-built version of the board with the IC already programmed, you can do so from the [701c.org Shop](https://701c.org/shop). *COMING SOON!*
+> **Note**: If you'd rather purchase a pre-built version of the board with the IC already programmed, you can do so from the [701c.org Shop](https://701c.org/shop).
 
 #
 
