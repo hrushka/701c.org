@@ -19,9 +19,9 @@
 #include "DS2434.h"
 
 #if defined(ARDUINO_AVR_UNO)
-constexpr uint8_t pin_onewire   { 2 }; // for Arduino Uno
+constexpr uint8_t pin_onewire   { 7 }; // for Arduino Uno
 #else
-constexpr uint8_t pin_onewire   { 7 }; // for attiny
+constexpr uint8_t pin_onewire   { 2 }; // for attiny
 #endif
 
 constexpr uint8_t tempCheckInterval = 5000;
