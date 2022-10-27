@@ -4,13 +4,7 @@ Find the full rebuild and walkthrough at [https://701c.org/projects/battery](htt
 
 Use the gerber files to print your own PCBs at vencors like [PCBWay](https://pcbway.com) or [JLPCB](https://jlpcb.com).
 
-#
-
-<img src="../../../images/pcb_revc_front.png"/>
-
-<img src="../../../images/pcb_revc_back.png"/>
-
-#
+<img src="../../../images/pcb_revc.png"/>
 
 > If you would prefer to purchase a single board rather than printing them yourself, you can do so at the [701C.org Shop](https://701c.org/shop).
 
