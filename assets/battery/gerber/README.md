@@ -4,6 +4,14 @@ Find the full rebuild and walkthrough at [https://701c.org/projects/battery](htt
 
 Use the gerber files to print your own PCBs at vencors like [PCBWay](https://pcbway.com) or [JLPCB](https://jlpcb.com).
 
+#
+
+<img src="../../../images/pcb_revc_front.png"/>
+
+<img src="../../../images/pcb_revc_back.png"/>
+
+#
+
 > If you would prefer to purchase a single board rather than printing them yourself, you can do so at the [701C.org Shop](https://701c.org/shop).
 
 ## Example Printer Settings
@@ -21,8 +29,6 @@ Use the gerber files to print your own PCBs at vencors like [PCBWay](https://pcb
 | Component | Part # |
 | --- | --- |
 | Terminals | KF301-2P 5.08mm |
-| Battery Management Chip | Dallas DS2434* |
+| MCU | [ATTINY85-20SF](https://www.findchips.com/search/ATTINY85-20SF) or [ATTINY85-20SFR](https://www.findchips.com/search/ATTINY85-20SFR) |
 
-\* This must be a chip pulled from an original IBM 701 battery.
-
-> I am working on a clone chip for the Dallas DS2434. Please check 701C.ORG for the status of that project.
+The code for the MCU can be found [here](https://github.com/hrushka/701c.org/tree/main/src/ds2434). 
