@@ -6,6 +6,13 @@ Find the full rebuild and walkthrough at [https://701c.org/projects/battery](htt
 
 The label is designed to be an exact match for the original battery and also fits the 3D printed case.
 
+There are two versions with updated battery chemistries:
+
+1. Ni-MH for Nickel Metal Hydryde
+2. Li-Po for Lithium Polymer
+
+> The 701c logo is pink in color to denote an area where the metallic silver should show through.
+
 | Property      | Value |
 | ----------- | ----------- |
 | Material | BOPP |
