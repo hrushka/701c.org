@@ -17,8 +17,8 @@ As many of these parts are very detailed, I’ve included the settings I use bel
 ## PCMCIA Cover with Popout
 
 Download the STLs:
-   * For the main cover [here](https://github.com/hrushka/701c.org/tree/main/src/ds2434/ds2434.ino).
-   * For the popout [here](https://github.com/hrushka/701c.org/tree/main/src/ds2434/ds2434.ino).
+   * For the main cover [here](https://github.com/hrushka/701c.org/blob/main/assets/case/parts/ibm_tp701_pcmciacover_main.stl).
+   * For the popout [here](https://github.com/hrushka/701c.org/blob/main/assets/case/parts/ibm_tp701_pcmciacover_center.stl).
 
 ### Example Printer Settings (SLA)
 
@@ -43,7 +43,7 @@ Note that there are two different techniques for printing the main cover and the
 
 ## RAM Door Cover
 
-Download the STL [here](https://github.com/hrushka/701c.org/tree/main/src/ds2434/ds2434.ino).
+Download the STL [here](https://github.com/hrushka/701c.org/blob/main/assets/case/parts/ibm_tp701_ramcover.stl).
 
 ### Example Printer Settings (SLA)
 
@@ -64,7 +64,7 @@ I've had the best results with this print by printing directly on the build plat
 
 ## Floppy Disk (FDD) Port Cover
 
-Download the STL [here](https://github.com/hrushka/701c.org/tree/main/src/ds2434/ds2434.ino).
+Download the STL [here](https://github.com/hrushka/701c.org/blob/main/assets/case/parts/ibm_tp701_portcover.stl).
 
 ### Example Printer Settings (SLA)
 
