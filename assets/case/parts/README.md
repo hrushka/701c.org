@@ -41,9 +41,11 @@ Note that there are two different techniques for printing the main cover and the
 
 #
 
-## RAM Door Cover
+## RAM Door Cover & Sleep Battery Cover
 
-Download the STL [here](https://github.com/hrushka/701c.org/blob/main/assets/case/parts/ibm_tp701_ramcover.stl).
+Download the Ram Door Cover STL [here](https://github.com/hrushka/701c.org/blob/main/assets/case/parts/ibm_tp701_ramcover.stl).
+
+Download the Sleep Battery Cover STL [here](https://github.com/hrushka/701c.org/blob/main/assets/case/parts/ibm_tp701_sleepcover.stl).
 
 ### Example Printer Settings (SLA)
 
