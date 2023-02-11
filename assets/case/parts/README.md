@@ -26,16 +26,14 @@ Download the STLs:
 | ----------- | ----------- |
 | Printer      | Elegoo Saturn 2 8k |
 | Resin MIX   | 60% ABS-Like / 40% F69 (Flexible) |
-| Main Cover Angle | 48.743° |
-| Main Cover Supports | Light |
-| Popout Angle | Face down on build plate |
-| Popout Supports | None, no raft |
+| Print Angle | 48.743° |
+| Supports | Light |
 | Layer Height | 25µm |
 | Exposure Time | 5s |
 | Bottom Exposure Time | 50s |
 | Ambient Temperature | 31°C |
 
-Note that there are two different techniques for printing the main cover and the popout. I have found that printing directly on the build plate has a higher chance of success when printing the small clips on the side of the popout, but that I get greater dimentsional accuracy when printing at the calculated angle for the main cover.
+I've modified the parts and now recommend printing both at the angle above or - more importantly - using the [angle calculator](https://www.rc87.blog/angle-calculator/) to find the appropriate angle for your printer and layer height.
 
 **See the note below about calculating the correct angle for your print.**
 
@@ -53,14 +51,14 @@ Download the Sleep Battery Cover STL [here](https://github.com/hrushka/701c.org/
 | ----------- | ----------- |
 | Printer      | Elegoo Saturn 2 8k |
 | Resin MIX   | 60% ABS-Like / 40% F69 (Flexible) |
-| Print Angle | Face down on build plate |
-| Print Supports | None, no raft |
+| Print Angle | 48.743° |
+| Supports | Light |
 | Layer Height | 25µm |
 | Exposure Time | 5s |
 | Bottom Exposure Time | 50s |
 | Ambient Temperature | 31°C |
 
-I've had the best results with this print by printing directly on the build plate with the **clips facing up**. The base layers may come out a little thick on the sides, but light sanding with 1000 grit paper will make quick work of any overexposed layers.
+I've modified the parts and now recommend printing both at the angle above or - more importantly - using the [angle calculator](https://www.rc87.blog/angle-calculator/) to find the appropriate angle for your printer and layer height.
 
 #
 
